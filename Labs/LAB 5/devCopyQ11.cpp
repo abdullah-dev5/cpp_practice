@@ -5,9 +5,6 @@ should find and display the largest and the lowest of the numbers. Give a proper
 for invalid user input
 **/
 
-
-
-
 #include<iostream>
 using namespace std;
 int main()
