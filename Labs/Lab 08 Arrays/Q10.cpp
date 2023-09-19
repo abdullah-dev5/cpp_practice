@@ -67,10 +67,10 @@ int main()
 			}
 			
 		}
-		for(int n=0; n<size_of; n++)
+		for(int n=0; n<=size_of-1; n++)
 		{
 		cout<<"======================================================================"<<endl;
-		cout<<"Name physics	chmist math english	obtain	per	grade"<<endl;
+		cout<<"Name physics	chmist math english	obtain	per	grade" <<endl;
 		cout<<"======================================================================"<<endl;	
 		cout<<name[n]<<" 	"<<physics[n]<<"	"<<chemist[n]<<" 	"<<math[n]<<"  	"<<english[n]<<" 	 "<<sum[n]<<"	"<<per[n]<<" 	"<<grade[n]<<endl;	
 			
