@@ -1,3 +1,4 @@
+
 #include<iostream>
 #include<string>
 using namespace std;
@@ -11,7 +12,9 @@ class WalkerClass{
 	void setName(string x)
 	{
 	 	name=x ;
+
 		roll = number;
+
 		number++; 
 	}
   string getName()
