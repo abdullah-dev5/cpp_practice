@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+
+
 /***
 using Class with Multiple Objects print out 2 or more objects in same 
 class.
@@ -33,6 +35,7 @@ phoneObject2.year=2019;
 
 cout<<phoneObject1.Brand<<" "<<phoneObject1.Model<<" "<<phoneObject1.year<<endl;
 cout<<phoneObject2.Brand<<" "<<phoneObject2.Model<<" "<<phoneObject2.year<<endl;
+
 
 
 
