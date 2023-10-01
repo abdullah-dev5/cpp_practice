@@ -6,6 +6,8 @@ int item1,item2,item3;
 cout<<"Enter 1st item "<<endl;
 cin>>item1;
 
+
+
 cout<<"Enter 2nd item "<<endl;
 cin>>item2;
 cout <<"Enter 3rd item "<<endl;
